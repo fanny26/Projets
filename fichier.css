@@ -1,0 +1,525 @@
+html, body { 
+ margin:0;
+ padding:0;
+}
+
+body { 
+ background-image:url(https://www.walldevil.com/wallpapers/w16/pink-flower-on-black-and-white-background.jpg);
+ background-repeat:no-repeat;
+ background-size:cover;
+ min-width:1900px;
+ height:1540px;
+ opacity:5;
+}
+
+body { 
+ background-color:#fff;
+ opacity:0.9;
+}
+a {
+ background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#D02090));
+ -webkit-background-clip:text;
+ -webkit-text-fill-color:transparent;
+ text-decoration:none; 
+}
+
+.Coordonnees-fanny {
+ margin:-10px 30px;
+ position:relative;
+ top:20px;
+}
+
+.icon {
+ height:20px;
+ max-width:100%;
+ position:relative;
+ margin-left:-245px;
+ top:-63px;
+}
+
+.permis { 
+ margin-right:-1px;
+ position:relative;
+ top:-75px;
+ color:WhiteSmoke;
+ Font-Weight:Bolder;
+}
+
+.mail {
+ margin-right:200px;
+ position:relative;
+ top:1198px;
+}
+
+h1 { 
+ color:pink;
+ text-align:center; 
+ margin-top:0; 
+ margin-left:400px;
+ margin-right:400px;
+ font-size:45px;
+ font-style:italic;
+}
+
+.degrade{
+ font-size:50px;
+ background:-webkit-gradient(linear, left top, left bottom, from(#D87093), to(#F5F5F5));
+ -webkit-background-clip:text;
+ -webkit-text-fill-color:transparent;
+}
+
+.image {
+ position:relative;
+ float:left;
+ width:220px;
+ height:192px;
+ border:4px double WhiteSmoke;
+ border-radius:60px;
+ margin-left:40px;
+}
+	
+.h3-coordonnees { 
+ color:WhiteSmoke;
+ font-size:20px; 
+ text-align:right;
+ }
+ 
+h4 {
+ color:pink; 
+ font-size:20px; 
+ }
+ 
+.hr_curi{
+ position:relative;
+ top:-20px;
+ color:DeepPink;
+} 
+
+.comp { 
+ text-align:left;
+ margin-left:45px;
+ position :relative;
+ top:20px;
+}
+
+.hr_comp {
+ margin-left:45px;
+ margin-right:1300px;
+ color:DeepPink;
+}
+.hr_forma {
+ margin-left:45px;
+ margin-right:1300px;
+ color:DeepPink;
+}
+rm {
+ position:relative;
+ top:20px;
+ text-align:left;
+ margin-left:45px;
+}
+
+.hr_lang {
+ margin-left:45px;
+ margin-right:1300px;
+ color:DeepPink;
+}
+
+.lang {
+ position:relative;
+ top:20px;
+ text-align:left;
+ margin-left:45px;
+}
+
+.hr_centre {
+ margin-left:45px;
+ margin-right:1300px;
+ color:DeepPink;
+}
+.centre_i {
+ position:relative;
+ top:20px;
+ text-align:left;
+ margin-left:45px;
+}
+
+p { 
+ color:pink; 
+ font-size:16px; 
+ text-align:right;
+ Font-Weight:Bolder;
+}
+
+.degrade{
+ font-size:50px;
+ background:-webkit-gradient(linear, left top, left bottom, from(#D87093), to(#F5F5F5));
+ -webkit-background-clip:text;
+ -webkit-text-fill-color:transparent;
+}
+
+li { 
+ color:Coral;
+ font-style:;
+ font-size:16px;
+}
+
+em { 
+ color:Coral; 
+ font-size:16px; 
+}
+
+.recy, .man, .sta, .sta2, .bab { 
+ font-weight:bold;
+ color:WhiteSmoke;
+ font-size:20px;
+ 
+}
+
+.centre {
+ Font-Weight:Bolder;
+ text-align:left;
+ margin-left:30px;
+}
+
+.langues {
+ Font-Weight:Bolder;
+ text-align:left;
+ margin-left:30px;
+}
+
+.formation { 
+ text-align:left;
+ margin-left:30px;
+ Font-Weight:Bolder;
+}
+
+ ul {
+ margin-bottom:0;
+} 
+
+.tout{
+ text-align:left;
+ margin-left:30px;
+}
+
+.CI {
+ position:relative;
+ top:-30px;
+}
+
+.LANG {
+ position:relative;
+ top:-30px;
+}
+
+.forme {
+ position:relative;
+ top:-30px;
+}
+
+.ensemble {
+ position:relative;
+ top:-30px;
+}
+
+.facebook {
+ color:red;
+ display:inline;
+ height:60px;
+ left:900px;
+ position:relative;
+ text-align:right;
+ top:45px;
+ }
+
+ .outlook{
+ color:red;
+ display:inline;
+ height:60px;
+ left:820px;
+ position:relative;
+ text-align:right;
+ top:45px;
+ }
+ 
+ @keyframes blink {
+  50% {
+    opacity: 1;}
+}
+
+.air {
+  animation:blink 3s infinite;
+  -webkit-animation-duration:1s;
+  -webkit-animation-timing-function:linear;
+  -webkit-animation-iteration-count:infinite;
+  -moz-animation-duration:1s;
+  -moz-animation-timing-function:linear;
+  -moz-animation-iteration-count:infinite;
+}
+
+ @keyframes blink {
+  50% {
+    opacity: 0;}
+}
+
+.salon{
+ animation:blink 3s infinite;
+ -webkit-animation-duration:1s;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-iteration-count:infinite;
+ -moz-animation-duration:1s;
+ -moz-animation-timing-function:linear;
+ -moz-animation-iteration-count:infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;}
+}
+
+.cnfdi {
+ animation:blink 3s infinite;
+ -webkit-animation-duration:1s;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-iteration-count:infinite;
+ -moz-animation-duration:1s;
+ -moz-animation-timing-function:linear;
+ -moz-animation-iteration-count:infinite;
+}
+
+ @keyframes blink {
+  50% {
+    opacity: 0;}
+}
+
+.mjc {
+ animation:blink 3s infinite;
+ -webkit-animation-duration:1s;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-iteration-count:infinite;
+ -moz-animation-duration:1s;
+ -moz-animation-timing-function:linear;
+ -moz-animation-iteration-count:infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;}
+}
+
+.fan {
+ animation:blink 3s infinite;
+ -webkit-animation-duration:1s;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-iteration-count:infinite;
+ -moz-animation-duration:1s;
+ -moz-animation-timing-function:linear;
+ -moz-animation-iteration-count:infinite;
+}
+
+.form {
+ position:relative;
+ top:20px;
+ text-align:left;
+ margin-left:45px;
+}
+
+.hr_lang {
+ margin-left:45px;
+ margin-right:1300px;
+ color:DeepPink;
+}
+
+.lang {
+ position:relative;
+ top:20px;
+ text-align:left;
+ margin-left:45px;
+}
+
+.hr_centre {
+ margin-left:45px;
+ margin-right:1300px;
+ color:DeepPink;
+}
+.centre_i {
+ position:relative;
+ top:20px;
+ text-align:left;
+ margin-left:45px;
+}
+
+p { 
+ color:pink; 
+ font-size:16px; 
+ text-align:right;
+ Font-Weight:Bolder;
+}
+
+.degrade{
+ font-size:50px;
+ background:-webkit-gradient(linear, left top, left bottom, from(#D87093), to(#F5F5F5));
+ -webkit-background-clip:text;
+ -webkit-text-fill-color:transparent;
+}
+
+li { 
+ color:Coral;
+ font-style:;
+ font-size:16px;
+}
+
+em { 
+ color:Coral; 
+ font-size:16px; 
+}
+
+.recy, .man, .sta, .sta2, .bab { 
+ font-weight:bold;
+ color:WhiteSmoke;
+ font-size:20px;
+ 
+}
+
+.centre {
+ Font-Weight:Bolder;
+ text-align:left;
+ margin-left:30px;
+}
+
+.langues {
+ Font-Weight:Bolder;
+ text-align:left;
+ margin-left:30px;
+}
+
+.formation { 
+ text-align:left;
+ margin-left:30px;
+ Font-Weight:Bolder;
+}
+
+ ul {
+ margin-bottom:0;
+} 
+
+.tout{
+ text-align:left;
+ margin-left:30px;
+}
+
+.CI {
+ position:relative;
+ top:-30px;
+}
+
+.LANG {
+ position:relative;
+ top:-30px;
+}
+
+.forme {
+ position:relative;
+ top:-30px;
+}
+
+.ensemble {
+ position:relative;
+ top:-30px;
+}
+
+.facebook {
+ color:red;
+ display:inline;
+ height:60px;
+ left:900px;
+ position:relative;
+ text-align:right;
+ top:45px;
+ }
+
+ .outlook{
+ color:red;
+ display:inline;
+ height:60px;
+ left:820px;
+ position:relative;
+ text-align:right;
+ top:45px;
+ }
+ 
+ @keyframes blink {
+  50% {
+    opacity: 1;}
+}
+
+.air {
+  animation:blink 3s infinite;
+  -webkit-animation-duration:1s;
+  -webkit-animation-timing-function:linear;
+  -webkit-animation-iteration-count:infinite;
+  -moz-animation-duration:1s;
+  -moz-animation-timing-function:linear;
+  -moz-animation-iteration-count:infinite;
+}
+
+ @keyframes blink {
+  50% {
+    opacity: 0;}
+}
+
+.salon{
+ animation:blink 3s infinite;
+ -webkit-animation-duration:1s;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-iteration-count:infinite;
+ -moz-animation-duration:1s;
+ -moz-animation-timing-function:linear;
+ -moz-animation-iteration-count:infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;}
+}
+
+.cnfdi {
+ animation:blink 3s infinite;
+ -webkit-animation-duration:1s;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-iteration-count:infinite;
+ -moz-animation-duration:1s;
+ -moz-animation-timing-function:linear;
+ -moz-animation-iteration-count:infinite;
+}
+
+ @keyframes blink {
+  50% {
+    opacity: 0;}
+}
+
+.mjc {
+ animation:blink 3s infinite;
+ -webkit-animation-duration:1s;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-iteration-count:infinite;
+ -moz-animation-duration:1s;
+ -moz-animation-timing-function:linear;
+ -moz-animation-iteration-count:infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;}
+}
+
+.fan {
+ animation:blink 3s infinite;
+ -webkit-animation-duration:1s;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-iteration-count:infinite;
+ -moz-animation-duration:1s;
+ -moz-animation-timing-function:linear;
+ -moz-animation-iteration-count:infinite;
+}
