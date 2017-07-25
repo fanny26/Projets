@@ -4,7 +4,7 @@ html, body {
 }
 
 body { 
- background-image:url(https://www.walldevil.com/wallpapers/w16/pink-flower-on-black-and-white-background.jpg);
+ background-image:url(http://1.bp.blogspot.com/-F325zf8U3sc/UidqLrbCqLI/AAAAAAAABNM/Cp5RNNd_3Nk/s1600/grey-powerpoint-backgrounds.jpg);
  background-repeat:no-repeat;
  background-size:cover;
  min-width:1900px;
@@ -430,24 +430,24 @@ em {
 }
 
 .facebook {
- color:red;
- display:inline;
- height:60px;
- left:900px;
- position:relative;
- text-align:right;
- top:45px;
- }
+    color: red;
+    display: inline;
+    height: 60px;
+    left: 900px;
+    position: relative;
+    text-align: right;
+    top: 30px;
+}
 
- .outlook{
- color:red;
- display:inline;
- height:60px;
- left:820px;
- position:relative;
- text-align:right;
- top:45px;
- }
+.outlook {
+    color: red;
+    display: inline;
+    height: 60px;
+    left: 820px;
+    position: relative;
+    text-align: right;
+    top: 29px;
+}
  
  @keyframes blink {
   50% {
